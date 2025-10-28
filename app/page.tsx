@@ -61,7 +61,7 @@ export default function Home() {
       <header className="space-y-2">
         <h1 className="text-3xl font-semibold tracking-tight">Todos</h1>
         <p className="text-sm text-zinc-500">
-          TanStack DB + ElectricSQL + Drizzle with optimistic sync.
+          TanStack DB + ElectricSQL + Drizzle starter.
         </p>
       </header>
 
