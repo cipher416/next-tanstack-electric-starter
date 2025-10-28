@@ -1,3 +1,7 @@
+# Demo (with 2 clients)
+
+https://github.com/user-attachments/assets/e2115808-c7e0-4aff-8409-974b1590d72f
+
 # next-tanstack-electric-starter
 
 Starter kit that combines Next.js 16 (App Router) with TanStack DB collections synced through ElectricSQL, Drizzle ORM migrations, and tRPC-powered server endpoints. The sample app is a live-synced todo list showcasing optimistic updates and Postgres persistence.
